@@ -32,3 +32,7 @@ que possui, dentre os seus principais agentes, os bancos comerciais e os novos e
 Abaixo temos o percentual mensal de inadimplencial da carteira de crédito total, fornecido pelo Banco Central, onde são consideradas as inadimplencias com atraso no pagamento de parcelas superior a 90 dias.
 
 De acordo com os dados disponibilizados pelo Banco Central (2023), a carteira de crédito total teve um crescimento de 0.53% nos últimos 12 meses.
+
+# Objetivo do projeto
+
+Criar um modelo de ML capaz de classificar novos indivíduos como aptos ou não-aptos na concessão de crédito de uma instituição financeira.
